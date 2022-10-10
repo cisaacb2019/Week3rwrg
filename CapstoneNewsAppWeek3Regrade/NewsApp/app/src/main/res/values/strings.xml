@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">News App</string>
+    <string name="newstext2">NewsText2</string>
+    <string name="newstext3">NewsText3</string>
+    <string name="newstext4">NewsText4</string>
+    <string name="newstext5">NewsText5</string>
+    <string name="newstext1">NewsText1</string>
+    <string name="landnewstext1">NewsText1</string>
+    <string name="landnewstext2">NewsText2</string>
+    <string name="landnewstext3">NewsText3</string>
+    <string name="landnewstext4">NewsText4</string>
+    <string name="landnewstext5">NewsText5</string>
+</resources>
